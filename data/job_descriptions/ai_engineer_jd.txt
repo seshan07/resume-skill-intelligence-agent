@@ -1,0 +1,10 @@
+Job Title: AI Engineer
+
+Required Skills:
+Python, Machine Learning, LangChain, Vector Databases
+
+Experience:
+2+ years
+
+Responsibilities:
+Build AI applications using LLMs, RAG, and APIs.
