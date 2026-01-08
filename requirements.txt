@@ -7,3 +7,4 @@ networkx
 python-dotenv
 pypdf
 sentence-transformers
+langchain-community
