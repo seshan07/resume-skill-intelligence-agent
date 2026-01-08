@@ -1,0 +1,9 @@
+Name: John Doe
+Role: AI Engineer
+Experience: 3 years
+
+Skills:
+Python, Machine Learning, LangChain, FAISS, FastAPI
+
+Education:
+B.Tech in Computer Science
